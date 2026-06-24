@@ -1,0 +1,4 @@
+colorama
+khayyam
+pyfiglet
+rainbowtext
